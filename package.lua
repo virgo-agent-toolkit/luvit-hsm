@@ -1,5 +1,5 @@
 return {
-  name = 'hsm',
+  name = 'rphillips/hsm',
   version = '0.0.2',
   description = 'hierarchical state machine',
   author = 'Hiroaki Nakamura <hnakamur@gmail.com>',
